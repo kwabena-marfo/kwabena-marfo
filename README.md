@@ -59,7 +59,7 @@ A launch page for a work-and-study-abroad startup, built to test demand before t
 
 ## How I build
 
-- **One stack for every app.** 10+ products share one architecture: a Hono API on a single Next.js catch-all route, thin routes, controllers that hold the rules, and Zod at every boundary. A fix in one app carries to all of them. It's public as a starter template: **[geared-stack](https://github.com/kwabena-marfo/geared-stack)**.
+- **One stack for every app.** 10+ products share one architecture: a Hono API on a single Next.js catch-all route, thin routes, controllers that hold the rules, and Zod at every boundary. A fix in one app carries to all of them. It's public as a starter template: **[geared-stack](https://github.com/kwabena-marfo/geared-stack)** ([live demo](https://geared-stack.vercel.app)).
 - **Payments done properly.** Prices come from the server, webhooks are signature-checked, and a single idempotent `fulfill()` means a payment confirmed twice is processed once.
 - **AI-assisted, human-reviewed.** I brief coding agents with `AGENTS.md` files, review every diff, and let types, builds and the running app have the final say.
 
