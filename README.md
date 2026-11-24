@@ -52,7 +52,7 @@ A launch page for a work-and-study-abroad startup, built to test demand before t
 | Project | What it is | Built with |
 | --- | --- | --- |
 | **Greenimee** | E-commerce with a referral wallet and mobile-money payouts; rebuilt as v2 and migrated live with no downtime | Next.js, Hono, Prisma, better-auth, Paystack |
-| **[Onus](https://github.com/kwabena-marfo/onus)** · [live](https://onusbible.vercel.app) | Scripture memorisation: save verses, quiz yourself by book of the Bible and track scores, on web and mobile | Next.js 16, Hono, Prisma, better-auth, Expo |
+| **[Onus](https://github.com/kwabena-marfo/onus)** · [live](https://onusbible.com) | Scripture memorisation: save verses, quiz yourself by book of the Bible and track scores, on web and mobile | Next.js 16, Hono, Prisma, better-auth, Expo |
 | **[scrollerCat](https://github.com/kwabena-marfo/scrollercat)** | A Ghana store with "shop-for-me": request any product by link and pay one all-in quote | Next.js, Hono, Prisma, Paystack |
 
 ---
